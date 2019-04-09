@@ -54,6 +54,7 @@ void ins(int num, char *nme)
 	{
 		ptr->reg = num;
 		ptr->name = nme;
+		ptr->prev = NULL;
 		head = ptr;
 		start = head;
 		i++;
@@ -65,6 +66,7 @@ void ins(int num, char *nme)
 		ptr->reg = num;
 		ptr->name = nme;
 		start->next = ptr;
+		ptr->prev = start;
 		start = start->next;
 	}
 }
