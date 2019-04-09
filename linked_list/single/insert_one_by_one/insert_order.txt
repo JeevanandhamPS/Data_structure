@@ -1,0 +1,8 @@
+/***************************************/
+/* Author	: Jeevanandham PS      */
+/* Date		: 9-apr-2019           */
+/* Filename	: insert_order.txt     */
+/* Description	: header files         */
+/***************************************/
+
+To declare a structure pointer,and allocate a memory by using dynamic memory allocation, insert value one by one.
