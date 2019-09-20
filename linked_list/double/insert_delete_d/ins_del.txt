@@ -1,0 +1,9 @@
+/*****************************************/
+/* Author	: Jeevanandham P S       */
+/* Date		: 20-sep-2019            */
+/* Filename	: ins_del.txt	         */
+/* Description	: Explaning the concept  */
+/*****************************************/
+
+To create a double linked list, and insert or delete a nodes by using user inputs.
+Insert and delete have three options 1.First 2.Mid 3.Last, depend upon user requirements we need to perform insertion or deletion on selected places.
