@@ -1,0 +1,7 @@
+/***************************************/
+/* Author	: Jeevanandham P S     */
+/* Date		: 15-05-2020           */
+/* Filename	: stack.txt	       */
+/* Description	: stack_single_list    */
+/***************************************/
+To create a stack with single linked list.
