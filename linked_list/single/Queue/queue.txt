@@ -1,0 +1,8 @@
+/****************************************/
+/* Author	: Jeevanandham P S      */
+/* Date		: 15-05-2020            */
+/* Filename	: queue.txt	        */
+/* Description	: Queue with linked list*/
+/****************************************/
+
+To create queue with single linked list.
